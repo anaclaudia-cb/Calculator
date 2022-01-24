@@ -9,7 +9,7 @@ Para clonar um repositório já existente você deve usar o comando:
 git clone https://github.com/anaclaudia-cb/Calculator.git
 ```
 
-Para visualizar é só ir na pasta e abrir o formulario.html com seu navegador padrão.
+Para visualizar é só ir na pasta e abrir o arquivo calculadora.html com seu navegador padrão.
 
 <h1>Sobre o Projeto</h1>
 
